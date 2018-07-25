@@ -1,0 +1,36 @@
+C:\Users\klyme\source\repos\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+C:\Users\klyme\source\repos\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+C:\Users\klyme\source\repos\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+C:\Users\klyme\source\repos\Library Management System\Library Management System\obj\Debug\Library Management System.csprojResolveAssemblyReference.cache
+C:\Users\klyme\source\repos\Library Management System\Library Management System\obj\Debug\Library_Management_System.Form1.resources
+C:\Users\klyme\source\repos\Library Management System\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+C:\Users\klyme\source\repos\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.GenerateResource.cache
+C:\Users\klyme\source\repos\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.CoreCompileInputs.cache
+C:\Users\klyme\source\repos\Library Management System\Library Management System\obj\Debug\Library Management System.exe
+C:\Users\klyme\source\repos\Library Management System\Library Management System\obj\Debug\Library Management System.pdb
+C:\Users\klyme\source\repos\Library Management System\Library Management System\bin\Debug\Database.mdf
+C:\Users\klyme\source\repos\Library Management System\Library Management System\bin\Debug\Database_log.ldf
+C:\Users\klyme\source\repos\Library Management System\Library Management System\obj\Debug\Library_Management_System.AppBody.resources
+C:\Users\klyme\source\repos\Library Management System\Library Management System\obj\Debug\Library_Management_System.About_UserControl.resources
+C:\Users\klyme\source\repos\Library Management System\Library Management System\obj\Debug\Library_Management_System.Books_UserControl.resources
+C:\Users\klyme\source\repos\Library Management System\Library Management System\obj\Debug\Library_Management_System.Borrowers_UserControl.resources
+C:\Users\klyme\source\repos\Library Management System\Library Management System\obj\Debug\Library_Management_System.Settings_UserControl.resources
+C:\Users\klyme\source\repos\Library Management System\Library Management System\obj\Debug\Library_Management_System.Transaction_UserControl.resources
+N:\Домашні універ\Library Management System\Library Management System\bin\Debug\Database.mdf
+N:\Домашні універ\Library Management System\Library Management System\bin\Debug\Database_log.ldf
+N:\Домашні універ\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+N:\Домашні універ\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+N:\Домашні універ\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+N:\Домашні універ\Library Management System\Library Management System\obj\Debug\Library Management System.csprojResolveAssemblyReference.cache
+N:\Домашні універ\Library Management System\Library Management System\obj\Debug\Library_Management_System.About_UserControl.resources
+N:\Домашні універ\Library Management System\Library Management System\obj\Debug\Library_Management_System.AppBody.resources
+N:\Домашні універ\Library Management System\Library Management System\obj\Debug\Library_Management_System.Books_UserControl.resources
+N:\Домашні універ\Library Management System\Library Management System\obj\Debug\Library_Management_System.Borrowers_UserControl.resources
+N:\Домашні універ\Library Management System\Library Management System\obj\Debug\Library_Management_System.Form1.resources
+N:\Домашні універ\Library Management System\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+N:\Домашні універ\Library Management System\Library Management System\obj\Debug\Library_Management_System.Settings_UserControl.resources
+N:\Домашні універ\Library Management System\Library Management System\obj\Debug\Library_Management_System.Transaction_UserControl.resources
+N:\Домашні універ\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.GenerateResource.cache
+N:\Домашні універ\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.CoreCompileInputs.cache
+N:\Домашні універ\Library Management System\Library Management System\obj\Debug\Library Management System.exe
+N:\Домашні універ\Library Management System\Library Management System\obj\Debug\Library Management System.pdb
